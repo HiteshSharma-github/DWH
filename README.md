@@ -7,4 +7,5 @@
 6-Implementation of any  Hierarchical Clustering method                                                       
 7-Implementation of Bayesian algorithm
                                                       
-https://stackabuse.com/text-summarization-with-nltk-in-python/                                                    
+https://stackabuse.com/text-summarization-with-nltk-in-python/        
+https://www.tutorialspoint.com/page-rank-algorithm-and-implementation-using-python
